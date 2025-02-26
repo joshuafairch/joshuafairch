@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an application engineer at [Ansys](https://www.ansys.com/) specializing in LS-DYNA explicit analysis. I spend most of my working time scaling LS-DYNA simulations for parameterized workflows, though I also support Structured-ALE and Workbench-DYNA efforts.
+
+My github use focuses on [PyDYNA](https://github.com/ansys/pydyna), [PyDPF](https://github.com/ansys/pydpf-core), and a number of personal projects that never live longer than a week.
+
+Coding languages:
+- MATLAB
+- Python
