@@ -21,5 +21,6 @@ I'm an application engineer at [Ansys](https://www.ansys.com/) specializing in L
 My github use focuses on [PyDYNA](https://github.com/ansys/pydyna), [PyDPF](https://github.com/ansys/pydpf-core), and a number of personal projects that never live longer than a week.
 
 Coding languages:
-- MATLAB
 - Python
+- MATLAB
+- C (I hate it)
