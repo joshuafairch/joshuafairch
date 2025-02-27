@@ -24,3 +24,4 @@ Coding languages:
 - Python
 - MATLAB
 - C (I hate it)
+- Bash
